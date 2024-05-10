@@ -1,5 +1,3 @@
-
-
 export const Bio = {
   name: "Nikita Lalwani",
   roles: [
