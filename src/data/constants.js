@@ -119,6 +119,10 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name: "SQLite3",
+        image: "https://logos-download.com/wp-content/uploads/2018/09/SQLite_Logo.png",
+      },
     ],
   },
   {
@@ -382,10 +386,10 @@ export const projects = [
     description:
       "Gym Management System built with Python and PostgreSQL database. Includes login/signup features, and functionality for adding, deleting, searching, and updating both members and staff. Provides comprehensive management tools for efficient gym operation and member/staff administration.",
     image:
-      "",
-    tags: ["Python", "PostgreSQL"],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-nodejs-db.appspot.com/o/gym_managemnt_system_django.png?alt=media&token=a3145ae8-028b-4ad1-8645-80227fddd466",
+    tags: ["Python", "PostgreSQL", "Django", ],
     category: "web app",
-    github: "",
+    github: "https://github.com/Nikk-27/Gym-Management-System",
     webapp: "",
     member: [
       {
