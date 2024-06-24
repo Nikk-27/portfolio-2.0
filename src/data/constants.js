@@ -397,18 +397,17 @@ export const projects = [
     ],
   },
   {
-    id: 1,
-    title: "",
-    date: "Sep 2017 - Nov 2017",
+    id: 3,
+    title: "MERN Stack Project: Real Time Chat App",
+    date: "May 2024 - June 2024",
     description:
-      "",
+      "MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io, Zustand, Tailwind, DaisyUI. Includes Login/signup features, Real-time messaging with Socket.io, Online user status (Socket.io and React Context), Global state management with Zustand, Search user feature, Authentication && Authorization with JWT, Error handling both on the server and on the client",
     image:
-      "",
-    tags: [],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-nodejs-db.appspot.com/o/React_chat_app.png?alt=media&token=d99cfd91-7e48-49cd-8128-3eb43c8176fb",
+    tags: ["MongoDB", "Express Js", "React Js", "Node Js", "HTML", "CSS", "Javascript"],
     category: "web app",
-    // category: "machine learning", android app,
-    github: "",
-    webapp: "",
+    github: "https://github.com/Nikk-27/React-chat-app",
+    webapp: "https://react-chat-app-noum.onrender.com/",
     member: [
       {
         name: "Nikita Lalwani",
