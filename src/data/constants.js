@@ -10,7 +10,7 @@ export const Bio = {
     "Currently enrolled in the Master of Science program in Computer Science at California State University, Long Beach. Throughout my academic journey, I've been refining my skills and delving into diverse realms of computer science. Driven by motivation and adaptability, I enthusiastically embrace novel challenges. Fueled by a fervent desire for knowledge, I am committed to delivering excellence in all endeavors. Possessing a constructive outlook and a penchant for growth, I am poised to make a significant impact and attain remarkable feats.",
   github: "https://github.com/Nikk-27",
   resume:
-    "https://drive.google.com/file/d/1UCqhaxCu0u1z5RFl6cC902MVhHAJg_TO/view?usp=sharing",
+    "https://drive.google.com/file/d/1COoJYQM5wBiCJfFxuLQ-WtYmrNcKnn8Z/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/nikita-lalwani-nl25/",
   insta: "https://www.instagram.com/coyoteaflowers/",
 };
